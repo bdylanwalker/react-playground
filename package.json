@@ -1,13 +1,22 @@
 {
-  "name": "react-hello-world",
+  "name": "react-playground",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --hot --history-api-fallback --open"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdylanwalker/react-playground.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdylanwalker/react-playground/issues"
+  },
+  "homepage": "https://github.com/bdylanwalker/react-playground#readme",
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
